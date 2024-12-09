@@ -54,17 +54,11 @@ Key insights were derived using:
 ## Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction
+   git clone https://github.com/SaiPavankumar22/heart-disease-prediction
    ```
-2. **Install Dependencies**:
-   - Ensure Python 3.x is installed.
-   - Install required libraries:
-     ```bash
-     pip install -r requirements.txt
-     ```
-3. **Run the Model**:
+2. **Run the Model**:
    - Execute the notebook to train models and visualize the data.
-4. **Dynamic Prediction**:
+2. **Dynamic Prediction**:
    - Use the `predict_heart_disease()` function for real-time predictions.
 
 ---
